@@ -1,3 +1,6 @@
 # gestor_tarefa
 
-A new Flutter project.
+## Desenvolvedores
+Luiz Felipe Spadaro Goes - 837695
+Pedro A. De Oliveira Cardoso - 837652
+
